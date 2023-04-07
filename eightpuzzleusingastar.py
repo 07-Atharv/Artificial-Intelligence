@@ -1,1 +1,0 @@
-print("These is the algorithm of 8 puzzle using a star")
